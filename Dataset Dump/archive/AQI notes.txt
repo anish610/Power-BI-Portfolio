@@ -1,0 +1,16 @@
+State 
+Location
+Agency
+Type
+Pollutants 
+date
+
+Permissible limit of pollutants.
+
+
+Questions:
+How has pollutant increased by time?
+Pollution by states
+
+
+

@@ -1,0 +1,23 @@
+KPI 
+
+Total Sales 
+Total Units Sold
+Total Profit 
+
+
+Slicer 
+Order Date Slicer
+
+
+Trends
+Total Sales by Segment (Pie chart)
+Total Sales By Region,State City (Tree map)
+
+Quantiy Sold and Profit by Category,Subcategory, Product (Bar)
+
+Ship Mode, Product ,Sales Quantity Profit
+ 
+
+
+Metrics
+

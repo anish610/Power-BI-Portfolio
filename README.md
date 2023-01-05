@@ -19,3 +19,7 @@
 
 ![alt text](https://github.com/anish610/Power-BI-Portfolio/blob/main/Country%20Analysis%20Dashboard/Dashboard%20Screenshot.png)
 
+**PM Modi 76th Independence Word Cloud**
+
+![alt text](https://github.com/anish610/Power-BI-Portfolio/blob/main/PM%20Modi%20Word%20Cloud%20Pyspark-Power%20BI%20project/Power%20BI%20Report%20image.png)
+
